@@ -209,11 +209,11 @@ const LINKS = [
         options: [
             {
                 text: "hub",
-                url: "https://me.northeastern.edu/",
+                url: "https://student.me.northeastern.edu/",
             },
             {
                 text: "resources",
-                url: "https://northeastern.sharepoint.com/sites/studenthub/SitePages/Student-Resources.aspx#/resources",
+                url: "https://student.me.northeastern.edu/resources/",
             },
         ],
     },
