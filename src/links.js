@@ -190,16 +190,16 @@ const LINKS = [
         ],
     },
     {
-        title: "yammer",
-        description: "what the fuck is yammer",
+        title: "viva engage",
+        description: "what the fuck is engage",
         options: [
             {
                 text: "feed",
-                url: "https://web.yammer.com/main/feed",
+                url: "https://engage.cloud.microsoft/main/feed",
             },
             {
                 text: "inbox",
-                url: "https://web.yammer.com/main/inbox",
+                url: "https://engage.cloud.microsoft/main/inbox",
             },
         ],
     },
